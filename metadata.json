@@ -1,0 +1,6 @@
+{
+  "name": "Spendora",
+  "description": "Smart personal finance and expense tracking app with paycheck-cycle budgeting, automated SMS transaction intelligence, and visual analytics.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
